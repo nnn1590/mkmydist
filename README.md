@@ -6,11 +6,11 @@ PinguyBuilderがインストールされている必要があります。
 
 PinguyBuilderに必要なxresprobeのダウンロード
 
-`https://launchpad.net/ubuntu/+source/xresprobe/0.4.24ubuntu9/+build/1274262/+files/xresprobe_0.4.24ubuntu9_amd64.deb`
+<https://launchpad.net/ubuntu/+source/xresprobe/0.4.24ubuntu9/+build/1274262/+files/xresprobe_0.4.24ubuntu9_amd64.deb>
 
 PinguyBuilderのダウンロード
 
-`https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/pinguybuilder_5.2-1_all.deb/download`
+<https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/pinguybuilder_5.2-1_all.deb/download>
 
 ## 使い方
 `bash ./makemy-dist.sh`

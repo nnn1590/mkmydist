@@ -15,3 +15,8 @@ ISO名が指定されていない場合、名前は`mydist.iso`になります�
 
 ### ディストロ名の変更方法
 `/usr/lib/os-release`の`PRETTY_NAME`の項目を自分のOSの名前に変更します。それ以外の場所を変えると正常に作動しなくなる可能性があるので注意して下さい。
+
+## ライセンス
+Copyright (C) nexryai
+Copyright (C) 2020 nexryai
+GNU 一般公衆利用許諾書 バージョン3/GNU General Public License v3.0 or later(GPL-3.0-or-later)

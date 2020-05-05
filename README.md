@@ -15,3 +15,8 @@ If no ISO name is specified, the name will be `mydist.iso`.
 
 ### How to change distribution name
 Change the `PRETTY_NAME` item in `/usr/lib/os-release` to the name of your OS. Please note that it may not work properly if you change other places.
+
+## License
+Copyright (C) nexryai
+Copyright (C) 2020 nexryai
+GNU General Public License v3.0 or later(GPL-3.0-or-later)

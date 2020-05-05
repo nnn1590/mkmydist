@@ -44,4 +44,5 @@ sudo -E -- PinguyBuilder clean
 echo -e "\e[1;34mINFO\e[m: Ready to build."
 sudo -E -- PinguyBuilder dist
 sudo -E -- PinguyBuilder dist iso "${_MAKEMYDIST_ISONAME}"
-echo -e "\e[1;32mDone!\e[m ISO: \"${_MAKEMYDIST_ISONAME}\""
+echo -e "\e[1;34mINFO\e[m: \e[1;32mDone!\e[m ISO: \"${_MAKEMYDIST_ISONAME}\""
+unset _MAKEMYDIST_ISONAME

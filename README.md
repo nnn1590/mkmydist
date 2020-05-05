@@ -12,5 +12,5 @@ Links for GNU/Linux based on Debian GNU/Linux (e.g. Ubuntu):
 Run `bash ./makemy-dist.sh`.
 After that, the configuration file is automatically copied, cleaned up, and iso is generated. Please change the OS name in advance.
 
-### How to change OS name
+### How to change distribution name
 Change the `PRETTY_NAME` item in `/usr/lib/os-release` to the name of your OS. Please note that it may not work properly if you change other places.

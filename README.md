@@ -6,7 +6,7 @@ PinguyBuilderがインストールされている必要があります。　
 
 PinguyBuilderに必要なxresprobeのダウンロード
 
- <https://launchpad.net/ubuntu/+source/xresprobe/0.4.24ubuntu9/+build/1274262/+files/xresprobe_0.4.24ubuntu9_amd64.deb>
+<https://launchpad.net/ubuntu/+source/xresprobe/0.4.24ubuntu9/+build/1274262/+files/xresprobe_0.4.24ubuntu9_amd64.deb>
  
 PinguyBuilderのダウンロード
 

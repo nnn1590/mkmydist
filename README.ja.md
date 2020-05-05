@@ -4,7 +4,7 @@
 ## 依存関係
 PinguyBuilderがインストールされている必要があります。　
 
-Debian GNU/LinuxベースのGNU/Linux用のリンク(例えばUbuntu):
+UbuntuベースのGNU/Linux用のリンク:
 - PinguyBuilderに必要なxresprobeのダウンロード: https://launchpad.net/ubuntu/+source/xresprobe/0.4.24ubuntu9/+build/1274262/+files/xresprobe_0.4.24ubuntu9_amd64.deb
 - PinguyBuilderのダウンロード: https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/pinguybuilder_5.2-1_all.deb/download
 

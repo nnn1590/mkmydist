@@ -9,8 +9,9 @@ Links for GNU/Linux based on Debian GNU/Linux (e.g. Ubuntu):
 - Download the PinguyBuilder: https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/pinguybuilder_5.2-1_all.deb/download
 
 ## Usage
-Run `bash ./makemy-dist.sh`.
+Run `./makemy-dist.sh [ISO name]`.
 After that, the configuration file is automatically copied, cleaned up, and iso is generated. Please change the OS name in advance.
+If no ISO name is specified, the name will be `mydist.iso`.
 
 ### How to change distribution name
 Change the `PRETTY_NAME` item in `/usr/lib/os-release` to the name of your OS. Please note that it may not work properly if you change other places.

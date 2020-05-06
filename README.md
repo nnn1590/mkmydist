@@ -15,7 +15,7 @@ PinguyBuilderのダウンロード
 
 ## 使い方
 `bash ./makemy-dist.sh`　　
-でスクリプトを実行します。あとは自動的に設定ファイルのコピー、クリーンアップ、iso生成を実行します。予めOSの名前を変更してください。
+でスクリプトを実行します。あとは自動的に設定ファイルのコピー、クリーンアップ、iso生成を実行します。予めOSの名前を変更してください。完成すると/home/PinguyBuilderデ/PinguyBuilderィレクトリ内にisoファイルがあります
 
 ### OS名の変更方法
 `/usr/lib/os-release`

@@ -13,7 +13,7 @@ sudo cp -r $HOME/.config/xfce4/ /etc/skel/.config/
 echo システムをアップデートします
 sudo apt-get update && apt-get upgrade -y
 echo 不要な依存関係を削除します
-sudo apt autoremove
+sudo apt autoremove --purge
 sudo PinguyBuilder clean
 echo 準備は完了しました。
 sudo PinguyBuilder dist

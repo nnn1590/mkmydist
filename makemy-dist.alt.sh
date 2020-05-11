@@ -43,7 +43,7 @@ cp -r "${HOME}/.config/xfce4/"             "/etc/skel/.config/"
 echo -e "\e[1;34mINFO\e[m: Upgrading system..."
 apt update && apt upgrade -y
 echo -e "\e[1;34mINFO\e[m: Removing unused dependencies..."
-apt autoremove
+apt autoremove --purge
 PinguyBuilder clean
 echo -e "\e[1;34mINFO\e[m: Ready to build."
 PinguyBuilder dist

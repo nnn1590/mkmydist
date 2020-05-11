@@ -12,6 +12,7 @@ Links for GNU/Linux based on Ubuntu:
 Run `./makemy-dist.sh [ISO name]`.
 After that, the configuration file is automatically copied, cleaned up, and iso is generated. Please change the OS name in advance.
 If no ISO name is specified, the name will be `mydist.iso`.
+When completed, there is an iso file in the `/home/PinguyBuilder/PinguyBuilder` directory.
 
 ### How to change distribution name
 Change the `PRETTY_NAME` item in `/usr/lib/os-release` to the name of your OS. Please note that it may not work properly if you change other places.

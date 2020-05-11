@@ -12,6 +12,7 @@ UbuntuベースのGNU/Linux用のリンク:
 `./makemy-dist.sh [ISO名]`を実行します。
 あとは自動的に設定ファイルのコピー、クリーンアップ、iso生成を実行します。予めOSの名前を変更してください。
 ISO名が指定されていない場合、名前は`mydist.iso`になります。
+完成すると`/home/PinguyBuilder/PinguyBuilder`ディレクトリ内にisoファイルがあります。
 
 ### ディストロ名の変更方法
 `/usr/lib/os-release`の`PRETTY_NAME`の項目を自分のOSの名前に変更します。それ以外の場所を変えると正常に作動しなくなる可能性があるので注意して下さい。
